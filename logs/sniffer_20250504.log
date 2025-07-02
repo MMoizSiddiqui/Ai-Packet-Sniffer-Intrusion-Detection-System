@@ -1,0 +1,73 @@
+2025-05-04 16:22:59,686 - absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-05-04 16:22:59,905 - packet_sniffer - INFO - Database initialized successfully
+2025-05-04 16:22:59,905 - packet_sniffer - INFO - Database checked/initialized.
+2025-05-04 16:22:59,905 - packet_sniffer - INFO - Starting packet capture on interface: default
+2025-05-04 16:24:35,613 - packet_sniffer - ERROR - Error processing packet: 
+2025-05-04 16:36:39,552 - absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-05-04 16:38:41,975 - absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-05-04 16:38:42,131 - packet_sniffer - INFO - Database initialized successfully
+2025-05-04 16:38:42,131 - packet_sniffer - INFO - Database checked/initialized.
+2025-05-04 16:38:42,131 - packet_sniffer - INFO - Starting packet capture on interface: default
+2025-05-04 16:38:46,905 - packet_sniffer - INFO - Processed batch of 27 packets
+2025-05-04 16:38:52,030 - packet_sniffer - INFO - Processed batch of 28 packets
+2025-05-04 16:38:57,220 - packet_sniffer - INFO - Processed batch of 31 packets
+2025-05-04 16:39:02,377 - packet_sniffer - INFO - Processed batch of 33 packets
+2025-05-04 16:39:07,595 - packet_sniffer - INFO - Processed batch of 34 packets
+2025-05-04 16:39:12,942 - packet_sniffer - INFO - Processed batch of 18 packets
+2025-05-04 16:39:18,125 - packet_sniffer - INFO - Processed batch of 30 packets
+2025-05-04 16:39:23,272 - packet_sniffer - INFO - Processed batch of 35 packets
+2025-05-04 16:39:28,362 - packet_sniffer - INFO - Processed batch of 35 packets
+2025-05-04 16:39:33,575 - packet_sniffer - INFO - Processed batch of 35 packets
+2025-05-04 16:39:38,742 - packet_sniffer - INFO - Processed batch of 36 packets
+2025-05-04 16:39:43,905 - packet_sniffer - INFO - Processed batch of 36 packets
+2025-05-04 16:39:49,097 - packet_sniffer - INFO - Processed batch of 46 packets
+2025-05-04 16:39:54,245 - packet_sniffer - INFO - Processed batch of 43 packets
+2025-05-04 16:39:59,437 - packet_sniffer - INFO - Processed batch of 42 packets
+2025-05-04 16:40:04,625 - packet_sniffer - INFO - Processed batch of 39 packets
+2025-05-04 16:40:09,745 - packet_sniffer - INFO - Processed batch of 31 packets
+2025-05-04 16:40:14,960 - packet_sniffer - INFO - Processed batch of 34 packets
+2025-05-04 16:40:20,145 - packet_sniffer - INFO - Processed batch of 23 packets
+2025-05-04 16:40:25,386 - packet_sniffer - INFO - Processed batch of 31 packets
+2025-05-04 16:40:30,739 - packet_sniffer - INFO - Processed batch of 14 packets
+2025-05-04 16:40:36,044 - packet_sniffer - INFO - Processed batch of 24 packets
+2025-05-04 16:40:41,262 - packet_sniffer - INFO - Processed batch of 13 packets
+2025-05-04 16:40:46,485 - packet_sniffer - INFO - Processed batch of 15 packets
+2025-05-04 16:40:51,800 - packet_sniffer - INFO - Processed batch of 16 packets
+2025-05-04 16:40:56,958 - packet_sniffer - INFO - Processed batch of 21 packets
+2025-05-04 16:41:02,341 - packet_sniffer - INFO - Processed batch of 17 packets
+2025-05-04 16:41:08,256 - packet_sniffer - INFO - Processed batch of 16 packets
+2025-05-04 16:41:13,623 - packet_sniffer - INFO - Processed batch of 9 packets
+2025-05-04 16:41:18,848 - packet_sniffer - INFO - Processed batch of 21 packets
+2025-05-04 16:41:24,026 - packet_sniffer - INFO - Processed batch of 24 packets
+2025-05-04 16:41:29,298 - packet_sniffer - INFO - Processed batch of 19 packets
+2025-05-04 16:41:34,637 - packet_sniffer - INFO - Processed batch of 22 packets
+2025-05-04 16:41:40,081 - packet_sniffer - INFO - Processed batch of 20 packets
+2025-05-04 16:41:45,209 - packet_sniffer - INFO - Processed batch of 28 packets
+2025-05-04 16:41:50,860 - packet_sniffer - INFO - Processed batch of 29 packets
+2025-05-04 16:41:55,991 - packet_sniffer - INFO - Processed batch of 19 packets
+2025-05-04 16:42:01,365 - packet_sniffer - INFO - Processed batch of 20 packets
+2025-05-04 16:42:06,572 - packet_sniffer - INFO - Processed batch of 25 packets
+2025-05-04 16:42:11,731 - packet_sniffer - INFO - Processed batch of 25 packets
+2025-05-04 16:42:16,833 - packet_sniffer - INFO - Processed batch of 20 packets
+2025-05-04 16:42:21,969 - packet_sniffer - INFO - Processed batch of 29 packets
+2025-05-04 16:42:27,091 - packet_sniffer - INFO - Processed batch of 23 packets
+2025-05-04 16:42:32,345 - packet_sniffer - INFO - Processed batch of 29 packets
+2025-05-04 16:42:37,595 - packet_sniffer - INFO - Processed batch of 35 packets
+2025-05-04 16:42:42,774 - packet_sniffer - INFO - Processed batch of 43 packets
+2025-05-04 16:42:47,888 - packet_sniffer - INFO - Processed batch of 45 packets
+2025-05-04 16:42:53,038 - packet_sniffer - INFO - Processed batch of 35 packets
+2025-05-04 16:42:58,237 - packet_sniffer - INFO - Processed batch of 27 packets
+2025-05-04 16:43:03,549 - packet_sniffer - INFO - Processed batch of 30 packets
+2025-05-04 16:43:05,625 - packet_sniffer - INFO - Processed batch of 12 packets
+2025-05-04 16:52:04,717 - absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-05-04 16:52:05,319 - packet_sniffer - INFO - Database initialized successfully
+2025-05-04 16:52:05,319 - packet_sniffer - INFO - Database checked/initialized.
+2025-05-04 16:52:05,319 - packet_sniffer - INFO - Starting packet capture on interface: default
+2025-05-04 16:58:22,720 - absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-05-04 16:58:22,855 - packet_sniffer - INFO - Database initialized successfully
+2025-05-04 16:58:22,855 - packet_sniffer - INFO - Database checked/initialized.
+2025-05-04 16:58:22,855 - packet_sniffer - INFO - Starting packet capture on interface: default
+2025-05-04 17:07:28,615 - absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-05-04 17:07:29,370 - packet_sniffer - INFO - Database initialized successfully
+2025-05-04 17:07:29,371 - packet_sniffer - INFO - Database checked/initialized.
+2025-05-04 17:07:29,371 - packet_sniffer - INFO - Starting packet capture on interface: default
