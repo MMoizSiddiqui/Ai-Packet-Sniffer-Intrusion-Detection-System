@@ -112,8 +112,6 @@ pandas
 
 TensorFlow / Keras (if deep learning is used)
 
-SQLite3
-
 Other utilities
 
 Install with:
