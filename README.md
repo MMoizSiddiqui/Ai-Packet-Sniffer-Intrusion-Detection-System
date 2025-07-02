@@ -1,8 +1,6 @@
 📁 Project Structure
-graphql
-Copy
-Edit
-CN Project/
+![image](https://github.com/user-attachments/assets/fe6e4954-df50-47ce-8284-68190d2adbcf)
+
 ├── dashboard/
 │   ├── app.py                 # Flask-based web dashboard
 │   └── templates/
